@@ -10,6 +10,6 @@
 <title></title>
 </head>
 <body>
-삭제했음.
+삭제했음
 </body>
 </html>
